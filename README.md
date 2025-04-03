@@ -10,8 +10,8 @@ Sub-package to hold the fonts and some data to make the examples of [plothist](h
 [ci-link]:      https://github.com/0ctagon/plothist_utils/actions/workflows/ci.yaml?query=branch%3Amain
 [cd-badge]:     https://github.com/0ctagon/plothist_utils/actions/workflows/cd.yaml/badge.svg
 [cd-link]:      https://github.com/0ctagon/plothist_utils/actions/workflows/cd.yaml?query=branch%3Amain
-[pypi-link]:    https://pypi.org/project/plothist_utils/
-[pypi-version]: https://badge.fury.io/py/plothist_utils.svg
+[pypi-link]:    https://pypi.org/project/plothist-utils/
+[pypi-version]: https://badge.fury.io/py/plothist-utils.svg
 
 
 ## Fonts
